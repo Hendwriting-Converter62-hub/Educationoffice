@@ -1,0 +1,7 @@
+{
+  "name": "Upazila Education MIS",
+  "description": "A centralized data collection and reporting system for Upazila Primary Education Offices in Bangladesh, featuring role-based access for schools and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
